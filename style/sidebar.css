@@ -1,0 +1,89 @@
+
+
+.sidebar {
+   
+    position: fixed;
+    background-color: white;
+    left: 0;
+    bottom: 0;
+    top: 61px;
+    width: 76px;
+    cursor: pointer;
+    z-index: 200;
+}
+.sidebar-link {
+    background-color: white;
+    height: 76px;
+}
+.sidebar-link:hover {
+    background-color: #cccccc;
+}
+
+.home {
+  height: 24px;
+  padding-left:  25px;
+  padding-top: 20px;
+ 
+  
+}  
+.sidebar-name1 {
+    padding-left: 24px;
+    padding-top: 4px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}               
+.explore {
+  height: 24px;
+  padding-left: 25px;
+  padding-top: 20px;
+} 
+.sidebar-name2 {
+    padding-left: 21px;
+    padding-top: 3px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subs {
+  height: 24px;
+  padding-left: 25px;
+  padding-top: 20px;
+} 
+.sidebar-name3 {
+    padding-left: 6px;
+    padding-top: 4px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.original {
+  width: 27px;
+  padding-left: 25px;
+  padding-top: 20px;
+} 
+.sidebar-name4 {
+    padding-left: 18px;
+    padding-top: 3px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ytmusic {
+  width: 27px;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+.sidebar-name5 {
+    padding-left: 4px;
+    padding-top: 4px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.library {
+  width: 27px;
+  padding-left: 25px;
+  padding-top: 20px;
+}  
+.sidebar-name6 {
+    padding-left: 23px;
+    padding-top: 4px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}     
